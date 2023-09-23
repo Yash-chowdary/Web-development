@@ -1,0 +1,33 @@
+Today is Day1 of learning JS.
+
+To begin with, JS is a programming language widely used in the field of Web Development to make websites more interactive to users.
+It has evolved over the years to become an essential tool for building dynamic, interactive, and responsive web applications.
+
+Key points to learn about JS are,
+
+1. Purpose
+2. Syntax
+3. Data Types
+4. Functions
+5. DOM Manipulation
+6. Events
+7. Asynchronous Programming
+8. Frameworks and Libraries
+9. ES6 and Modern JavaScript
+10. Versatility
+
+Day-1 Learnings
+----------------
+a/b(3/2 is 1.5) gives decimal values in JS unlike integers in Java,C,C++(3/2 is 1).
+
+Learned Datatypes, Comments, Variables
+--------------------------------------
+->Numbers, Strings, Booleans, Undefined, Null are Datatypes in JS.
+
+->Uninitialised variables values and void return functions return types are undefined
+
+->typeof(variable_name) used to find its type.
+  ->typeof(null) is object type
+
+
+
