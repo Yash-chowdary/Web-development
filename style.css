@@ -1,0 +1,8 @@
+#tutorial-content{
+    background-color: rgb(157, 173, 188);
+    height: 100px;
+    width:auto;
+    display: flex;
+    justify-content: center;
+    color:rgb(20, 17, 17)
+}
